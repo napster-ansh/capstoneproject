@@ -29,7 +29,7 @@ This Booking App was created as the final capstone project of the **Meta Front-E
 
 ```s
 # Run in the Terminal
-git clone https://github.com/jayantasamaddar/little-lemon-meta-frontend-capstone.git folder
+git clone https://github.com/napster-ansh/capstoneproject.git 
 
 # Install Dependencies
 npm install
@@ -237,5 +237,3 @@ Unit Testing has been done with the help of React Testing Library, Jest, Jestdom
 # Honour Code
 
 This demo project is solely done by me, Ansh Jain. You can contact me on **[GitHub](https://www.github.com/napster-ansh)** for interesting projects to work on.
-#   c a p s t o n e p r o j e c t  
- 
